@@ -3,6 +3,9 @@ Learning python at https://skilldisk.com/
 
 <!--
 **Vijay46/Vijay46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Friend%20For%20Your%20Skill%20Development+;4-A+Model+of+Skill+Disk;Aspire+Analyse+Acquire+Apply&center=true&width=400&height=50">
+</p>
 
 Here are some ideas to get you started:
 

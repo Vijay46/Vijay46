@@ -1,11 +1,3 @@
-### Hi there 👋
-Learning python at https://skilldisk.com/
-
-<!--
-**Vijay46/Vijay46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Friend%20For%20Your%20Skill%20Development+;4-A+Model+of+Skill+Disk;Aspire+Analyse+Acquire+Apply&center=true&width=400&height=50">
-</p>
 
 Here are some ideas to get you started:
 
@@ -27,13 +19,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Friend%20For%20Your%20Skill%20Development+;4-A+Model+of+Skill+Disk;Aspire+Analyse+Acquire+Apply&center=true&width=400&height=50">
 </p>
-
-
-
-<div align="center">
-Skill Disk is fastest growing online and offline education base situated in the Silicon Valley of India.
-</div>
-
 
 <h3 align="center">VISION</h3>
 <p  align="center">"To be a pioneer in empowering the future generation by imparting pristine knowledge which can greatly enhance the cognitive ability, through ceaseless innovation in education, research, and creativity."</p>

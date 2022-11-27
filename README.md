@@ -1,4 +1,14 @@
 
+<h3 align="center">
+  Welcome To MY Repo!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+
+<!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Friend%20For%20Your%20Skill%20Development+;4-A+Model+of+Skill+Disk;Aspire+Analyse+Acquire+Apply&center=true&width=400&height=50">
+</p>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently pursuing B.E in EEE ...
@@ -10,17 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">
-  Welcome To MY Repo!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
-<!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Friend%20For%20Your%20Skill%20Development+;4-A+Model+of+Skill+Disk;Aspire+Analyse+Acquire+Apply&center=true&width=400&height=50">
-</p>
-
-## 🙋‍♂️ Connect with us
+## 🙋‍♂️ Connect us
 
 <!-- Badges template - https://github.com/badges/shields -->
 <p align="center">

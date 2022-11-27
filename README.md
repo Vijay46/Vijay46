@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3 align="center">
-  Welcome to SKILL DISK!
+  Welcome To MY Repo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -19,10 +19,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Friend%20For%20Your%20Skill%20Development+;4-A+Model+of+Skill+Disk;Aspire+Analyse+Acquire+Apply&center=true&width=400&height=50">
 </p>
-
-<h3 align="center">VISION</h3>
-<p  align="center">"To be a pioneer in empowering the future generation by imparting pristine knowledge which can greatly enhance the cognitive ability, through ceaseless innovation in education, research, and creativity."</p>
-
 
 ## 🙋‍♂️ Connect with us
 

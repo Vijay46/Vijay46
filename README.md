@@ -6,7 +6,7 @@
 
 <!-- Typing SVG (WIP by DenverCoder1) - repo coming soon! -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=New%20For%20Horizon%20Skill%20College+;4-Hiii+I'm+Vijat+Meti+I'm;Pursuing+Engineering+In+NHEC&center=true&width=400&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Learning%20Python%20Programming%20Skill Disk%20College+;Hiii+I'm+Vijay+Meti+I'm;Pursuing+Engineering+In+NHEC&center=true&width=400&height=50">
 </p>
 
 Here are some ideas to get you started:
